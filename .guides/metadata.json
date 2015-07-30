@@ -21,12 +21,42 @@
    "reset": []
   },
   {
+   "id": "7696a65-3606-dd70-d4fc-a933e0823268",
+   "title": "Project approach",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Project-approach-7696.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "172677b8-c76e-e633-12c7-bad7178c998f",
    "title": "File and directories specifications",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Examining-the-ls--l-command-output-1726.md",
+   "content-file": ".guides/content/File-and-directories-specifications-1726.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1540ac61-9d86-8300-7556-12febd6cf1a1",
+   "title": "File and directories permissions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-6-1540.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6b55741b-6321-be1f-4697-d330f20b3cd3",
+   "title": "File and directories details in depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-and-directories-details-in-depth-6b55.md",
    "chapter": false,
    "reset": []
   }
