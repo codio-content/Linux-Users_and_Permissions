@@ -1,0 +1,36 @@
+{
+ "sections": [
+  {
+   "id": "eb8b4af1-5a5b-c9b8-15eb-e47948058f01",
+   "title": "Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-eb8b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "cc3eddfb-3c0a-c55e-92e8-c5fc22b2caf4",
+   "title": "What we'll learn",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-cc3e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "172677b8-c76e-e633-12c7-bad7178c998f",
+   "title": "File and directories specifications",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examining-the-ls--l-command-output-1726.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": []
+}
