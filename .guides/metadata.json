@@ -46,17 +46,37 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-6-1540.md",
+   "content-file": ".guides/content/File-and-directories-permissions-1540.md",
    "chapter": false,
    "reset": []
   },
   {
-   "id": "6b55741b-6321-be1f-4697-d330f20b3cd3",
-   "title": "File and directories details in depth",
+   "id": "48d2b71c-6a10-2540-9eae-cd0314f11df5",
+   "title": "Changing permissions",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/File-and-directories-details-in-depth-6b55.md",
+   "content-file": ".guides/content/Changing-permissions-48d2.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7b45106f-8b9c-a98d-8efe-13c99db54737",
+   "title": "Chmod command in depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Chmod-command-in-depth-7b45.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "c80ef2e5-336f-b685-d94c-58de1f2c855b",
+   "title": "Chmod command in depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-8-c80e.md",
    "chapter": false,
    "reset": []
   }
