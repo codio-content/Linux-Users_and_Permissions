@@ -111,12 +111,22 @@
    "reset": []
   },
   {
+   "id": "c4178cfc-b23a-97b5-dece-3a40c4cc67ae",
+   "title": "The dangers of 777",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-dangers-of-777-c417.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "2c47b101-609c-5bba-6080-903c7c548bc6",
    "title": "Challenge: Chmod numerical modes",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-12-2c47.md",
+   "content-file": ".guides/content/Challenge--Chmod-numerical-modes-2c47.md",
    "chapter": false,
    "reset": []
   }
