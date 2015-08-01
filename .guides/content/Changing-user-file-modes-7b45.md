@@ -1,10 +1,11 @@
 |||definition
-## Command: `chmod`
+## Command: 
+```
+chmod <options> <mode> <file_or_directory>
+```
 __Definition:__ Change the mode or access control of the listed files or directories.
 
-__mode = permissions__
-
-__Note:__ Only the owner of a file or the super-user is permitted to change the mode of a file.
+__Note:__ Only the owner of a file or the super-user is permitted to change the mode of a file or directory.
 |||
 
 Remove the _owner user_ permissions to read, write and execute the `config.php` file and test the result with the `cat` command: 
