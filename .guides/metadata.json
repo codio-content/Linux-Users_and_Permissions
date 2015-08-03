@@ -139,6 +139,36 @@
    "content-file": ".guides/content/User-accounts-and-groups-9630.md",
    "chapter": false,
    "reset": []
+  },
+  {
+   "id": "5f5f1524-7b5-d397-3700-dc3672559b1b",
+   "title": "System security: login names",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/System-security--login-names-5f5f.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "144aaa2-e331-7fa-7ed-3808459e2d4e",
+   "title": "System security: passwords",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/System-security--passwords-144a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "c24e17e1-fe23-cb9b-2484-bcc2d4af4b",
+   "title": "Challenge: User accounts and security",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--user-accounts-and-security-c24e.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "light",
