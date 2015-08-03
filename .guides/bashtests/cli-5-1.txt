@@ -1,0 +1,17 @@
+cli-5-1
+cli-5-1
+ls -alh
+cli-5-1
+cli-5-1
+chmod 520 index.php 
+cli-5-1
+rm index.php 
+cli-5-1
+touch index.php
+ls -l
+chmod 520 index.php 
+cli-5-1
+chmod 266 admin/
+cli-5-1
+-r-x-w----  1 codio codio    0 Aug  3 23:24 index.php
+d-w-rw-rw-  2 codio codio   22 Jul 30 17:38 admin

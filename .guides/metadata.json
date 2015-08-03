@@ -3,7 +3,14 @@
   {
    "id": "eb8b4af1-5a5b-c9b8-15eb-e47948058f01",
    "title": "Recap",
-   "files": [],
+   "files": [
+    {
+     "path": "bashtest 5",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-eb8b.md",
@@ -146,7 +153,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-19-409c.md",
+   "content-file": ".guides/content/Command-manual-pages-409c.md",
    "chapter": false,
    "reset": []
   },
