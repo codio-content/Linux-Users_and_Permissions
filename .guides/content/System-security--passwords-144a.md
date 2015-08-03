@@ -12,7 +12,7 @@ __Many breaches of computer security involve guessing a user's password.__
  eg., _codio_ for _C0d3o_.
 - A combination of both
   
-### Do not use these choices for passwords:
+### Not recommended as secure choices for passwords:
 
 - Your name (spelled forwards, backwards, or jumbled)
 - Names of family members or pets

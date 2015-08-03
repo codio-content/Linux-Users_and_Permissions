@@ -131,6 +131,26 @@
    "reset": []
   },
   {
+   "id": "745bfee5-4468-1ad0-7832-58dc77995230",
+   "title": "Commands manual",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Commands-manual-745b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "409cafb4-c91e-cf3a-1e40-b883229cb9cb",
+   "title": "Command manual pages",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-19-409c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "9630d302-602d-db63-70ff-83ed9cec19b3",
    "title": "User accounts and groups",
    "files": [],
@@ -166,7 +186,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--user-accounts-and-security-c24e.md",
+   "content-file": ".guides/content/Challenge--User-accounts-and-security-c24e.md",
    "chapter": false,
    "reset": []
   }
