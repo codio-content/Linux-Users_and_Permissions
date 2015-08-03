@@ -129,6 +129,26 @@
    "content-file": ".guides/content/Challenge--Chmod-numerical-modes-2c47.md",
    "chapter": false,
    "reset": []
+  },
+  {
+   "id": "9630d302-602d-db63-70ff-83ed9cec19b3",
+   "title": "User accounts and groups",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/User-accounts-9630.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "5c83821-25c5-2817-8e46-511b62be77f4",
+   "title": "New user defaults",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-user-defaults-5c83.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "light",

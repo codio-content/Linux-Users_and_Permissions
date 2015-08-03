@@ -1,0 +1,1 @@
+By adding a new Unix _normal user_, a new `/home/admin/` directory is created be default.
