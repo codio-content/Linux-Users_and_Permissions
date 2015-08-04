@@ -17,7 +17,7 @@ codio ~/workspace $ echo "<php ?>" > config.php
 -bash: config.php: Permission denied
 ```
 
-### Permissions on the real world
+### Applying it t the real world
 On a real-world example, the `config.php` file may contain the CMS database name and password. This kind of information needs to be well-protected from anyone that is not the system administrator. In this case the `config.php` file settings would probably look like this:
 
 ```

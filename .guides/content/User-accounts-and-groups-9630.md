@@ -1,4 +1,4 @@
-__Who is able to see or perform what in a computer system?__
+__In a computer system: Who is able to see or perform what?__
 
 One basic system administration task is to set up a user account for each user at a site.
 
