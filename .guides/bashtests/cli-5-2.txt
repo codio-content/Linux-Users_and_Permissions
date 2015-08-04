@@ -1,0 +1,18 @@
+cli-5-2
+man chmod
+clear
+chmod -R 755 admin/
+cli-5-2
+chmod 756 README.md 
+cli-5-2
+chmod 440 README.md 
+cli-5-2
+chmod 221 ~/workspace/index.php 
+cli-5-2
+cli-5-2
+chmod 221 /home/codio/workspace/index.php
+cli-5-2
+cli-5-2
+chmod 221 index.php 
+cli-5-2
+cli-5-2

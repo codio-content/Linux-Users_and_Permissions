@@ -10,10 +10,10 @@ Lets change the mode of the `~/workspace/content` directory and its subdirectori
 
 ```
 # Add the -r ecursive option
-chmod -r 755 content/
+chmod -R 755 content/
 ```
 
-By adding the `chmod -r` option, _bash_ uses the _recursive strategy_ to change the modes of the file hierarchies and not just the directory itself. 
+By adding the `chmod -R` option, _bash_ uses the _recursive strategy_ to change the modes of the file hierarchies and not just the directory itself. 
 
 ### Why `755`?
 
