@@ -41,10 +41,11 @@
    "id": "172677b8-c76e-e633-12c7-bad7178c998f",
    "title": "File and directories specifications",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-and-directories-specifications-1726.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -61,10 +62,11 @@
    "id": "48d2b71c-6a10-2540-9eae-cd0314f11df5",
    "title": "Changing file permissions",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Changing-file-permissions-48d2.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -101,10 +103,11 @@
    "id": "444c4a8a-d616-15f5-a82c-50f222404dc5",
    "title": "Chmod numerical modes",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Chmod-numerical-modes-444c.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -141,10 +144,11 @@
    "id": "745bfee5-4468-1ad0-7832-58dc77995230",
    "title": "Commands manual",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Commands-manual-745b.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -161,10 +165,11 @@
    "id": "9630d302-602d-db63-70ff-83ed9cec19b3",
    "title": "User accounts and groups",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/User-accounts-and-groups-9630.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
