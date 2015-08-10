@@ -2,7 +2,7 @@
 
 A Content Management System, or CMS for short, is a very popular kind of software that handles the creation, edition and presentation of content such as text, images, links, videos or documents.
 
-CMSs' as well as other kinds of software, include certain files and directories that need the proper permissions in order to: 
+CMSs as well as other kinds of software, include certain files and directories that need the proper permissions in order to: 
 
 - Keep its content safe from any malicious access
 - Allow the users to create, edit or delete content

@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "bashtest 5",
+     "path": "bashtest 5 | workspace-rest.sh workspace",
      "panel": 0,
      "action": "open"
     }

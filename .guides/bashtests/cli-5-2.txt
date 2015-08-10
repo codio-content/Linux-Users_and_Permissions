@@ -16,3 +16,46 @@ cli-5-2
 chmod 221 index.php 
 cli-5-2
 cli-5-2
+git a
+chmod 777 index.php 
+git a
+git c "Challenge 2 - match numerical notation"
+git push
+clear
+git a
+git c "Pollish content"
+git push
+git a
+git c "Grep regex"
+git push
+git a
+git c "Chapters"
+git push
+clear
+exit
+bash
+exit
+bash
+clear
+ps
+ps -f
+ls
+ps -f
+top
+top
+lsof -p 294
+lsof
+top
+exit
+bash
+clear
+top
+clear
+bash
+top
+clear
+ps
+suspend
+git status -s
+cli-5-1
+cli-5-2
