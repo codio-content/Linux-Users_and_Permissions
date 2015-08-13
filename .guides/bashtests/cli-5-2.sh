@@ -31,8 +31,8 @@ function test_command {
 				;;
 		esac
 	else 
+    echo "Well done!"
 		return 0
-		reset_history
 	fi
 }
 
