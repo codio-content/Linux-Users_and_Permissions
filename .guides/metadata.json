@@ -91,11 +91,11 @@
   },
   {
    "id": "dec06e97-c2a-d479-6556-496816916c80",
-   "title": "Challenge: chmod",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--chmod-dec0.md",
+   "content-file": ".guides/content/Challenge-dec0.md",
    "chapter": false,
    "reset": []
   },
@@ -132,11 +132,11 @@
   },
   {
    "id": "2c47b101-609c-5bba-6080-903c7c548bc6",
-   "title": "Challenge: Chmod numerical modes",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Chmod-numerical-modes-2c47.md",
+   "content-file": ".guides/content/Challenge-2c47.md",
    "chapter": false,
    "reset": []
   },
@@ -194,11 +194,21 @@
   },
   {
    "id": "c24e17e1-fe23-cb9b-2484-bcc2d4af4b",
-   "title": "Challenge: User accounts and security",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--User-accounts-and-security-c24e.md",
+   "content-file": ".guides/content/Challenge-c24e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f94c22d1-6064-cc8c-46ac-9e2e9f35124a",
+   "title": "End of unit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-20-f94c.md",
    "chapter": false,
    "reset": []
   }
