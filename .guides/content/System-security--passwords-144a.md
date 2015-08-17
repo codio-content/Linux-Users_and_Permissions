@@ -9,7 +9,7 @@ __Many breaches of computer security involve guessing a user's password.__
 - Nonsense words made up of the first letters of every word in a phrase:
  eg., _hwwfcbtbl_ for _Hello World Was First Coined By Tim Berners Lee_.
 - Words with numbers or symbols substituted for letters: 
- eg., _codio_ for _C0d3o_.
+ eg., _codio_ for _C0d1o_.
 - A combination of both
   
 ### Not recommended as secure choices for passwords:

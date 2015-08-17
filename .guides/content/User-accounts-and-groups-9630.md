@@ -4,7 +4,7 @@ One basic system administration task is to set up a user account for each user a
 
 A typical user account includes the information a user needs to log in and use a system.
 
-Lets get more details about our user:
+Let's get more details about our user:
 
 ```
 # Get user group information and id:

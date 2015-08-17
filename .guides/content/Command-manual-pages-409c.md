@@ -16,4 +16,4 @@ The more complex the commands, more complimentary sections are added in between.
 
 ---
 
-Now that you know how to get more information about any of the CLI commands, you can get a deeper look at any of them in case you need to.
+Now that you know how to get more information about any of the CLI commands, you can take a deeper look at any of them in case you need to.

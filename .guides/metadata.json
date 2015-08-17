@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "bashtest 5 | workspace-rest.sh workspace",
+     "path": "bashtest 5 | clear",
      "panel": 0,
      "action": "open"
     }
@@ -39,22 +39,22 @@
   },
   {
    "id": "172677b8-c76e-e633-12c7-bad7178c998f",
-   "title": "File and directories specifications",
+   "title": "File and directory specification",
    "files": [],
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/File-and-directories-specifications-1726.md",
+   "content-file": ".guides/content/File-and-directory-specification-1726.md",
    "chapter": true,
    "reset": []
   },
   {
    "id": "1540ac61-9d86-8300-7556-12febd6cf1a1",
-   "title": "File and directories permissions",
+   "title": "File and directory permissions",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/File-and-directories-permissions-1540.md",
+   "content-file": ".guides/content/File-and-directory-permissions-1540.md",
    "chapter": false,
    "reset": []
   },
@@ -112,11 +112,11 @@
   },
   {
    "id": "3446af0c-8d89-7706-ef84-2376c2997d7f",
-   "title": "Understanding numerical mode assignment",
+   "title": "Numerical mode assignment",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Understanding-numerical-mode-assignment-3446.md",
+   "content-file": ".guides/content/Numerical-mode-assignment-3446.md",
    "chapter": false,
    "reset": []
   },
@@ -208,7 +208,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/End-of-unit-f94c.md",
+   "content-file": ".guides/content/That-s-all-folks-f94c.md",
    "chapter": false,
    "reset": []
   }

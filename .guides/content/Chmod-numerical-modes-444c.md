@@ -1,8 +1,8 @@
-When working with software such as a CMS, most probably is that you'll find file mode definitions described as numbers. eg. `755`, `777`, `644`, and so on.
+When working with software such as a CMS, you’ll probably find file mode definitions described as numbers. eg. `755`, `777`, `644`, and so on.
 
-These are numerical representations of file and directories permissions.
+These are numerical representations of file and directory permissions.
 
-Lets understand this by examining the following comparison:
+Let's understand this by examining the following comparison:
 
 ```
 # String permissions for the .htaccess file:
@@ -12,7 +12,7 @@ Lets understand this by examining the following comparison:
 In order to assign the `rw-r--r--` permissions to the `.htaccess` file, the command would be like:
 
 ```
-# Use commas for faster assignment:
+# Commas for faster assignment:
 chmod u+rw-x,go+r-wx .htaccess
 ```
 

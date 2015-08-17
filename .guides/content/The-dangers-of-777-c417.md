@@ -1,4 +1,4 @@
-On real-world software projects, giving full access to our files and directories represents a huge risk of having any malicious cracker or entity uploading a devious file or modifying a current file to execute code. 
+In real-world software projects, giving full access to our files and directories represents a huge risk of having any malicious cracker or entity uploading a devious file or modifying a current file to execute code. 
 
 Following our CMS example, `777` permissions mean that anyone will have complete control over your CMS, including having your database information and password.
 

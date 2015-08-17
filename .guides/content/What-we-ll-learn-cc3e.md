@@ -12,10 +12,10 @@ These details include:
 - The modification time of the item
 - The name of the item
 
-In this unit we will learn how to modify these specifications by understanding file and directories permissions as well as adding new users and groups.
+In this unit we will learn how to modify these specifications by understanding file and directory permissions as well as adding new users and groups.
 
 ### Why is this useful?
 
-These file and directories specifications were created for security and organization reasons.
+These file and directory specifications were created for security and organization reasons.
 
-Web servers for example, are meant to be accesed by many users as well as other software, but there are certain types of files or directories that should not be publicly accessible.
+Web servers for example, are meant to be accessed by many users as well as other software, but there are certain types of files or directories that should not be publicly accessible.
