@@ -16,7 +16,7 @@ This is why the value of the user _group_ permissions equals to 5, where the _wr
 Let's change the mode of the `~/workspace/content` directory and its subdirectories to be `755`:
 
 ```
-# Add the -r ecursive option
+# Add the -R ecursive option
 chmod -R 755 content/
 ```
 

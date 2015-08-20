@@ -8,8 +8,8 @@ File modes may be updated with the `chmod` command which accepts the _mode_ defi
 
 |||guidance
 ### Correct answers
-1. `ls -alh`
-2. `chmod u-w,g-rw+w,o-rwx index.php`
+1. `ls -alh` (the order of the `-alh` options may vary)
+2. `chmod u-w+x,g-rx+w,o-rwx index.php`
 3. `chmod u-rx+w,go+rw-x admin`
 
 |||

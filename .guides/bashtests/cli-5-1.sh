@@ -21,14 +21,12 @@ function test_command {
 	if [[ $COUNT -le $QCOUNT ]]; then
 		case $COUNT in
 			1 )
-				expect_commands "List visible and hidden file details including file size sufixes for ~/workspace" "ls -alh" "ls -lah" "ls -hal" "ls -hla"
+				expect_commands "List visible and hidden file details including file size suffixes for ~/workspace" "ls -alh" "ls -lah" "ls -hal" "ls -hla" "ls -ahl" "ls -lha"
 				;;
 			2 )
-				# expect_permissions "index.php" "-r-x-w----" "$BASHDIR/workspace-cli5"
 				expect_permissions "index.php" "-r-x-w----" "/home/codio/workspace"
 				;;
 			3 )
-				# expect_permissions "admin" "d-w-rw-rw-" "$BASHDIR/workspace-cli5"
 				expect_permissions "admin" "d-w-rw-rw-" "/home/codio/workspace"
 				;;
 		esac
