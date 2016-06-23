@@ -1,0 +1,67 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1745604079",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Using proper nouns, names, login names, and other passwords that a person might guess just by knowing something about the user",
+     "_id": "55d73b3920efa43e63fb95e4"
+    },
+    {
+     "answer": "Using nonsense words made up of the first letters of every word in a phrase as passwords",
+     "correct": false,
+     "_id": "55d73b3920efa43e63fb95e3"
+    },
+    {
+     "answer": "Using words with numbers or symbols substituted for letters",
+     "correct": false,
+     "_id": "55d73b3920efa43e63fb95e2"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "User passwords",
+   "instructions": "Please answer this question and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n#### What is considered to be a common computer security breach?",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": false
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1413942323",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "/home/codio/workspace/.guides/bashtests/cli-5-1.sh",
+   "instructions": "Evaluate your `chmod` command understanding by completing the following tasks: \n\n1. List visible and hidden file details including _file size suffixes_ for the `~/workspace` directory content\n1. Change the `index.php` file to match these permissions:\n ```\n -r-x-w---- 1 codio codio  0 Jul 30 13:34 index.php\n ```\n2. Update the `admin/` directory to match these permissions: \n ```\n d-w-rw-rw- 2 codio codio 22 Jul 30 17:38 admin\n ```\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "name": "Changing file permissions"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2428128121",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "/home/codio/workspace/.guides/bashtests/cli-5-2.sh",
+   "instructions": "Its time to master `chmod` numerical modes by completing the following tasks:\n\n1. Using `chmod` numerical mode, update the `~/workspace/admin`directory and subdirectories permissions to be: `rwxr-xr-x`\n2. Using `chmod` numerical mode, update the `~/workspace/README.md` file permissions to be: `r--r-----`\n3. Using `chmod` numerical mode, update the `~/workspace/index.php` file permissions to be: `-w--w---x`\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "name": "User accounts and security"
+  }
+ }
+]
