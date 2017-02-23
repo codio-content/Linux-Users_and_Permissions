@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "#terminal: clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
