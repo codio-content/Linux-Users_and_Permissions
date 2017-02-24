@@ -15,7 +15,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Recap-eb8b.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "cc3eddfb-3c0a-c55e-92e8-c5fc22b2caf4",
@@ -25,7 +26,8 @@
    "type": "markdown",
    "content-file": ".guides/content/What-we-ll-learn-cc3e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7696a65-3606-dd70-d4fc-a933e0823268",
@@ -35,7 +37,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Project-approach-7696.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "172677b8-c76e-e633-12c7-bad7178c998f",
@@ -46,7 +49,8 @@
    "type": "markdown",
    "content-file": ".guides/content/File-and-directory-specification-1726.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "1540ac61-9d86-8300-7556-12febd6cf1a1",
@@ -56,7 +60,8 @@
    "type": "markdown",
    "content-file": ".guides/content/File-and-directory-permissions-1540.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "48d2b71c-6a10-2540-9eae-cd0314f11df5",
@@ -67,7 +72,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Changing-file-permissions-48d2.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7b45106f-8b9c-a98d-8efe-13c99db54737",
@@ -77,7 +83,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Changing-user-file-modes-7b45.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c80ef2e5-336f-b685-d94c-58de1f2c855b",
@@ -87,17 +94,25 @@
    "type": "markdown",
    "content-file": ".guides/content/Evaluate-file-mode-restrictions-c80e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dec06e97-c2a-d479-6556-496816916c80",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": ". .guides/bashtests/init.sh ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-dec0.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "444c4a8a-d616-15f5-a82c-50f222404dc5",
@@ -108,7 +123,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Chmod-numerical-modes-444c.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "3446af0c-8d89-7706-ef84-2376c2997d7f",
@@ -118,7 +134,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Numerical-mode-assignment-3446.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c4178cfc-b23a-97b5-dece-3a40c4cc67ae",
@@ -128,17 +145,25 @@
    "type": "markdown",
    "content-file": ".guides/content/The-dangers-of-777-c417.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2c47b101-609c-5bba-6080-903c7c548bc6",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": ". .guides/bashtests/init.sh ; clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-2c47.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "745bfee5-4468-1ad0-7832-58dc77995230",
@@ -149,7 +174,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Commands-manual-745b.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "409cafb4-c91e-cf3a-1e40-b883229cb9cb",
@@ -159,7 +185,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Command-manual-pages-409c.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9630d302-602d-db63-70ff-83ed9cec19b3",
@@ -170,7 +197,8 @@
    "type": "markdown",
    "content-file": ".guides/content/User-accounts-and-groups-9630.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "5f5f1524-7b5-d397-3700-dc3672559b1b",
@@ -180,7 +208,8 @@
    "type": "markdown",
    "content-file": ".guides/content/System-security--login-names-5f5f.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "144aaa2-e331-7fa-7ed-3808459e2d4e",
@@ -190,7 +219,8 @@
    "type": "markdown",
    "content-file": ".guides/content/System-security--passwords-144a.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c24e17e1-fe23-cb9b-2484-bcc2d4af4b",
@@ -200,7 +230,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-c24e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f94c22d1-6064-cc8c-46ac-9e2e9f35124a",
@@ -210,10 +241,12 @@
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-f94c.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
 }

@@ -13,7 +13,7 @@ This is why the value of the user _group_ permissions equals to 5, where the _wr
 
 ### Changing permissions to subdirectories
 
-Let's change the mode of the `~/workspace/content` directory and its subdirectories to be `755`:
+If we wanted to change the mode of the `~/workspace/content` directory (if it existed) and its subdirectories to be `755`:
 
 ```
 # Add the -R ecursive option
