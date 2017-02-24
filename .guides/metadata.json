@@ -102,7 +102,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": ". .guides/bashtests/init.sh ; clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -153,7 +153,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": ". .guides/bashtests/init.sh ; clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
