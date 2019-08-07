@@ -1,0 +1,135 @@
+{
+ "name": "Linux-Users_and_Permissions",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "eb8b4af1-5a5b-c9b8-15eb-e47948058f01",
+   "pageId": "eb8b4af1-5a5b-c9b8-15eb-e47948058f01",
+   "type": "page"
+  },
+  {
+   "title": "What we'll learn",
+   "id": "cc3eddfb-3c0a-c55e-92e8-c5fc22b2caf4",
+   "pageId": "cc3eddfb-3c0a-c55e-92e8-c5fc22b2caf4",
+   "type": "page"
+  },
+  {
+   "title": "Project approach",
+   "id": "7696a65-3606-dd70-d4fc-a933e0823268",
+   "pageId": "7696a65-3606-dd70-d4fc-a933e0823268",
+   "type": "page"
+  },
+  {
+   "title": "File and directory specification",
+   "id": "172677b8-c76e-e633-12c7-bad7178c998f",
+   "pageId": "172677b8-c76e-e633-12c7-bad7178c998f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "File and directory permissions",
+     "id": "1540ac61-9d86-8300-7556-12febd6cf1a1",
+     "pageId": "1540ac61-9d86-8300-7556-12febd6cf1a1",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Changing file permissions",
+   "id": "48d2b71c-6a10-2540-9eae-cd0314f11df5",
+   "pageId": "48d2b71c-6a10-2540-9eae-cd0314f11df5",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Changing user file modes",
+     "id": "7b45106f-8b9c-a98d-8efe-13c99db54737",
+     "pageId": "7b45106f-8b9c-a98d-8efe-13c99db54737",
+     "type": "page"
+    },
+    {
+     "title": "Evaluate file mode restrictions",
+     "id": "c80ef2e5-336f-b685-d94c-58de1f2c855b",
+     "pageId": "c80ef2e5-336f-b685-d94c-58de1f2c855b",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "dec06e97-c2a-d479-6556-496816916c80",
+     "pageId": "dec06e97-c2a-d479-6556-496816916c80",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Chmod numerical modes",
+   "id": "444c4a8a-d616-15f5-a82c-50f222404dc5",
+   "pageId": "444c4a8a-d616-15f5-a82c-50f222404dc5",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Numerical mode assignment",
+     "id": "3446af0c-8d89-7706-ef84-2376c2997d7f",
+     "pageId": "3446af0c-8d89-7706-ef84-2376c2997d7f",
+     "type": "page"
+    },
+    {
+     "title": "The dangers of 777",
+     "id": "c4178cfc-b23a-97b5-dece-3a40c4cc67ae",
+     "pageId": "c4178cfc-b23a-97b5-dece-3a40c4cc67ae",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "2c47b101-609c-5bba-6080-903c7c548bc6",
+     "pageId": "2c47b101-609c-5bba-6080-903c7c548bc6",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Commands manual",
+   "id": "745bfee5-4468-1ad0-7832-58dc77995230",
+   "pageId": "745bfee5-4468-1ad0-7832-58dc77995230",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Command manual pages",
+     "id": "409cafb4-c91e-cf3a-1e40-b883229cb9cb",
+     "pageId": "409cafb4-c91e-cf3a-1e40-b883229cb9cb",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "User accounts and groups",
+   "id": "9630d302-602d-db63-70ff-83ed9cec19b3",
+   "pageId": "9630d302-602d-db63-70ff-83ed9cec19b3",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "System security: login names",
+     "id": "5f5f1524-7b5-d397-3700-dc3672559b1b",
+     "pageId": "5f5f1524-7b5-d397-3700-dc3672559b1b",
+     "type": "page"
+    },
+    {
+     "title": "System security: passwords",
+     "id": "144aaa2-e331-7fa-7ed-3808459e2d4e",
+     "pageId": "144aaa2-e331-7fa-7ed-3808459e2d4e",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "c24e17e1-fe23-cb9b-2484-bcc2d4af4b",
+     "pageId": "c24e17e1-fe23-cb9b-2484-bcc2d4af4b",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "f94c22d1-6064-cc8c-46ac-9e2e9f35124a",
+     "pageId": "f94c22d1-6064-cc8c-46ac-9e2e9f35124a",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
